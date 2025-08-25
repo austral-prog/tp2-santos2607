@@ -7,4 +7,4 @@ def earth():
     print (f"The result of {y} comes first in the dictionary than {x} is {resultado2}.")
 
 
-#earth()
+earth()
